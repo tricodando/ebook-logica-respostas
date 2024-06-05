@@ -5,7 +5,7 @@ O material possui uma lista de exercícios ao final dos capítulos 4 a 11, porta
 
 Para um melhor aproveitamento do material, tente resolver por conta própria por pelo menos 3 vezes antes de consultar as soluções.
 
-- Capítulo 4 [(ver)]()
+- Capítulo 4 [(ver)](https://github.com/tricodando/ebook-logica-respostas/tree/main/capitulo-04)
 - Capítulo 5 [(ver)]()
 - Capítulo 6 [(ver)]()
 - Capítulo 7 [(ver)]()
