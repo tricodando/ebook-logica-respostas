@@ -7,7 +7,7 @@ Para um melhor aproveitamento do material, tente resolver por conta própria por
 
 - Capítulo 4 [(ver)](https://github.com/tricodando/ebook-logica-respostas/tree/main/capitulo-04)
 - Capítulo 5 [(ver)](https://github.com/tricodando/ebook-logica-respostas/tree/main/capitulo-05)
-- Capítulo 6 [(ver)]()
+- Capítulo 6 [(ver)](https://github.com/tricodando/ebook-logica-respostas/tree/main/capitulo-06)
 - Capítulo 7 [(ver)]()
 - Capítulo 8 [(ver)]()
 - Capítulo 9 [(ver)]()
