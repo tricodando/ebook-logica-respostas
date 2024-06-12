@@ -12,7 +12,7 @@ Para um melhor aproveitamento do material, tente resolver por conta própria por
 - Capítulo 8 [(ver)](https://github.com/tricodando/ebook-logica-respostas/tree/main/capitulo-08)
 - Capítulo 9 [(ver)](https://github.com/tricodando/ebook-logica-respostas/tree/main/capitulo-09)
 - Capítulo 10 [(ver)](https://github.com/tricodando/ebook-logica-respostas/tree/main/capitulo-10)
-- Capítulo 11 [(ver)]()
+- Capítulo 11 [(ver)](https://github.com/tricodando/ebook-logica-respostas/tree/main/capitulo-11)
 
 ### Canais oficiais
  - [Youtube](https://www.youtube.com/@tricodando)
