@@ -1,3 +1,10 @@
+<div align="center">
+    <img
+        src="https://github.com/reuelcaetano/ebook-logica-de-programacao/assets/27034205/8333f247-1fab-4969-8a91-53641a77f03a.png"
+        width="400px"
+    >
+</div>
+
 # eBook Lógica de Programação (Soluções)
 Este repositório contém as soluções do eBook Lógica de Programação - Programando de forma moderna com Python 3.
 
